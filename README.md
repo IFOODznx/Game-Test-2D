@@ -14,7 +14,7 @@ O jogo foi desenvolvido para praticar conceitos de programação, animação e l
 
 ## 📸 Screenshot
 
-![Gameplay do jogo](TelaJogo.png)
+![Gameplay do jogo](TelaGame.png)
 
 ---
 
